@@ -1,1 +1,2 @@
 # StyleNest
+##StyleNest is a real-time Myntra Clone that lets you explore fashion trends like a pro! Built with HTML, CSS, and JS, it offers a user-friendly interface to browse clothing and accessories. Functionalities include Adding items to your bag, removing what doesn't fit, and even generating a bill to see your total cost.  StyleNest is a student project in development, but it's already a fun way to shop virtually!
